@@ -23,9 +23,11 @@ const config: Config = {
         amazon_light: "#232F3E",
         amazon_yellow: "#febd69",
         lightText: "#ccc",
+        amazon_fuck: "#ddd6fe",
+        amazon_red: "#dc2626"
       },
       fontFamily: {
-        bodyFont: ["Roboto", "sans-serif"],
+        bodyFont: ["Comfortaa", "sans-serif"],
       },
     },
   },

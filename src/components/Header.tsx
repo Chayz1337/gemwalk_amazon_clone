@@ -46,7 +46,7 @@ const Header = () => {
     <Link href={"/cart"} className="flex items-center px-2 border border-transparent hover:border-white cursor-pointer duration-300 h-[70%]">
       <Image className="w-auto object-cover h-8" src={cartIcon} alt="cartImg"/>
       <p className="text-xs text-white font-bold mt-3">Корзина</p>
-      <span className="absolute text-amazon_yellow text-sm top-5 right-[85px] font-semibold">0</span>
+      <span className="absolute text-amazon_yellow text-sm top-5 right-[95px] font-semibold">0</span>
     </Link>
   </div>
 </div>

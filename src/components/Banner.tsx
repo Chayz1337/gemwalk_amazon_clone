@@ -6,7 +6,7 @@ import Image from 'next/image';
 
 const Banner = () => {
   return (
-    <div className="relative px-10">
+    <div className="relative px-10 mx-24">
     <Carousel autoPlay infiniteLoop showStatus={false} showIndicators={false} showThumbs={false} interval={3000}>
     <div className='px-11'>
        <Image src={sliderImg_1} alt="sliderImg" />
